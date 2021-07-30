@@ -1,0 +1,1 @@
+Arrays: un array es como una lista donde podemos almacenar dato que son ordenasdos por posiciones.

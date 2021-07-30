@@ -1,0 +1,2 @@
+for: for es una palabra reservada que nos permite hacer uso de blucles para repetir una o mas instruciones dependiendo el numero de veces que le pasemos
+&&, ||, !: && "and" y || "or" son operadores logicos que nos permiten comparar valores booleanos y como respuesta nos daran un valor booleano para poder ejecutar codigo dependiendo su respuesta. 

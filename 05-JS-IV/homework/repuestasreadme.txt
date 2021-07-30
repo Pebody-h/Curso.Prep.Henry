@@ -1,0 +1,5 @@
+Objetos: un objeto se puede comprar con objetos en la vida real y en js tien propiedades y tipos ej un carro es un objeto su mar ford es una propiedad.
+Propiedades:una propiedad es una asociacion o cmo su nombre lo indica es una propiedad de algo ej el opérador math y sus propiedades son e o pi ej math.pi 
+Métodos: un metodo es una funcion propia de un objeto.
+Bucle for…in:es un blucle que nos permite iterar sin darle un numero de vueltas ni realizar un incremento y como resultado nos da un numero indice es indicado para recorrer objetos
+Notación de puntos vs notación de corchetes:sirven para acceder a las propiedad o funciones de un objeto y su diferencia es que cuando usamos corchetes podemos acceder a propiedades o caracteres no permitidos con el punto, por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es
